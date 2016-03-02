@@ -1,0 +1,1 @@
+# hadoop-eclipse-plugin-2.7.2.jar
